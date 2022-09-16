@@ -1,3 +1,4 @@
+http-server
 html, body {
     height: 100%;
 }
@@ -35,12 +36,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #3c005a; /* White */
     color: #555555;
+    height: 40%;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #2b0080; /* Blue */
     color: #ffffff;
 }
 
@@ -54,7 +56,8 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #330033
+    ; /* Black */
     color: #ffffff;
 }
 
